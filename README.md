@@ -1,2 +1,2 @@
 # AssetsCalculator-JS-
-Small application for calculating budget, economies, payments and so on, written in Javascript  with the purpose of learning :)
+Basic todo application written in react for front-end side, nodejs with express for the backend-side and mysql server for database :)
